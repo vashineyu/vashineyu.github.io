@@ -26,3 +26,5 @@ group :jekyll_plugins do
   gem "jekyll-feed"
   gem 'jekyll-sitemap'
 end
+
+gem update minimal-mistakes-jekyll
