@@ -22,6 +22,6 @@ About Me
 
 游為翔於國立台灣大學心理學系取得碩士學位(2015)，於國立成功大學心理系(2012) 取得學士學位。他過去專攻於視覺神經科學與腦造影領域，曾於2014年獲國科會補助於歐洲視覺年會 (ECVP)發表壁報論文，於2011年獲傑出人才研究基金會補助於國際人類腦造影研討會議 (Human Brain Mapping) 發表壁報論文。
 
-ECVP: http://ecvp.org/
+ECVP: http://ecvp.org/  <br>
 HBM: https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageID=3267&activateFull=false
 
