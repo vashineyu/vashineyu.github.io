@@ -8,11 +8,12 @@
  *  - mademistakes.com
  *  - https://twitter.com/mmistakes
  *
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partial
 */
 
-@charset "utf-8";
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
-@import "minimal-mistakes"; // main partials
+@import "jekyll-theme-minimal";
 
 @import "vendor/breakpoint/breakpoint"; // media query mixins
 @import "variables";
