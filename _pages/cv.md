@@ -22,7 +22,7 @@ Work experience
     
   
 * Adjunct Research Assistant at <ins>[Vision Neuroscience Lab, VNL](http://www.psy.ntu.edu.tw/vnl/publications.html)</ins>, Department of Psychology, National Tawian University, March 2016 - May 2016  
-  * Duties included: Magnetic Resonance Imaging (MRI) data analysis, build up analysis script and SOP
+  * Duties included: Magnetic Resonance Imaging (MRI) data analysis, build up analysis script and SOP
   * Tools: Matlab, Linux shell script
   
 Education
