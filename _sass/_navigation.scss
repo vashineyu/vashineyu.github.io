@@ -83,9 +83,9 @@
       line-height: 1.5;
       text-align: center;
       text-decoration: none;
-      color: mix(#fff, $gray, 25%);
-      border: 1px solid $light-gray;
-      border-radius: 0;
+      color: mix(#fff, $gray, 50%);
+      border: 1px solid gray;
+      border-radius: 0.5;
 
       &:hover {
         color: $link-color-hover;
