@@ -31,14 +31,14 @@ Work experience
   * Tools: Matlab, Linux shell script
   
 ----
-<br>
+  
 Education
 ======
 * M.S. in <ins>[Psychology, National Taiwan University](http://www.psy.ntu.edu.tw/)</ins>, 2015
 * B.S. in <ins>[Psychology, National Cheng Kung University](http://psychology.ncku.edu.tw/)</ins>, 2012
 
 ----
-<br>
+  
 Skills
 ======
 * Specialist
