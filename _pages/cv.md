@@ -15,9 +15,14 @@ Work experience
   * Specialists: data ETL, statistical analysis, machine learning, deep learning (network design & training strategy)
   * Tools: R, Python, Linux shell script
   * Projects
-    - Project THETA: Team leader, AI for Taiwan industry upgrading
-    - Team leader, 1) E-ticket use rate prediction 2) marketing strategies analysis, coorperation with EASYCARD Co.Ltd
-    - Team leader, 1) exploratory data analysis for e-commerce 2) books sales predition model 3) features analysis of books, coorperation with books.com.tw
+    - Project THETA: Team leader, cooperation with serveral manufacturer such as 台塑石化, 長春石化, 研華電子, etc <br>
+      - AI for Taiwan industry upgrading <br>
+    - Team leader, coorperation with EASYCARD Co.Ltd  <br>
+      - 1) E-ticket use rate prediction <br>
+      - 2) marketing strategies analysis<br>
+    - Team leader, coorperation with books.com.tw <br>
+      - 1) exploratory data analysis for e-commerce <br>
+      - 2) books sales predition model 3) features analysis of books <br>
   * Other duties: GPU server management
     
   
@@ -25,12 +30,13 @@ Work experience
   * Duties included: Magnetic Resonance Imaging (MRI) data analysis, build up analysis script and SOP
   * Tools: Matlab, Linux shell script
   
+----
 Education
 ======
 * M.S. in <ins>[Psychology, National Taiwan University](http://www.psy.ntu.edu.tw/)</ins>, 2015
 * B.S. in <ins>[Psychology, National Cheng Kung University](http://psychology.ncku.edu.tw/)</ins>, 2012
 
-  
+----
 Skills
 ======
 * Specialist
