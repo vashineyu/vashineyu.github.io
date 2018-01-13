@@ -14,7 +14,7 @@ Work experience
 * Data Scientist at <ins>[Data Insight Research Lab, DIRL](http://dirl.iis.sinica.edu.tw/)</ins>, Institute of Information Science, Academia Sinica, May 2016 - Jan 2018 
   * Specialists: data ETL, statistical analysis, machine learning, deep learning (network design & training strategy)
   * Tools: R, Python, Linux shell script
-  * Projects
+  * Projects  <br>
     - Project THETA: Team leader, cooperation with serveral manufacturer such as 台塑石化, 長春石化, 研華電子, etc <br>
       - AI for Taiwan industry upgrading <br>
     - Team leader, coorperation with EASYCARD Co.Ltd  <br>
