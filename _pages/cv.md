@@ -13,7 +13,7 @@ Work experience
 ======
 * Data Scientist at <ins>[Data Insight Research Lab, DIRL](http://dirl.iis.sinica.edu.tw/)</ins>, Institute of Information Science, Academia Sinica, May 2016 - Jan 2018 
   * Specialists: data ETL, statistical analysis, machine learning, deep learning (network design & training strategy)
-  * Tools: R, Python, Linux shell script
+  * Main tools: R, Python, Linux shell script
   * Projects  <br>
     - Project THETA: Team leader, cooperation with serveral manufacturer such as 台塑石化, 長春石化, 研華電子, etc <br>
       - 1) AI for Taiwan industry upgrading: Defect classification, predictive maintenance, parameter optimization <br>
@@ -23,12 +23,14 @@ Work experience
     - Team leader, coorperation with books.com.tw <br>
       - 1) exploratory data analysis for e-commerce <br>
       - 2) books sales predition model 3) features analysis of books <br>
-  * Other duties: GPU server management
+  * Other duties: 
+    - GPU server management  <br>
+    - Lecturer  <br>
     
   
 * Adjunct Research Assistant at <ins>[Vision Neuroscience Lab, VNL](http://www.psy.ntu.edu.tw/vnl/publications.html)</ins>, Department of Psychology, National Tawian University, March 2016 - May 2016  
   * Duties included: Magnetic Resonance Imaging (MRI) data analysis, build up analysis script and SOP
-  * Tools: Matlab, Linux shell script
+  * Main tools: Matlab, Linux shell script
   
 ----
   
