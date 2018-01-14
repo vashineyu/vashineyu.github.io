@@ -23,8 +23,8 @@ Work experience
     - Team leader, coorperation with books.com.tw <br>
       - 1) exploratory data analysis for e-commerce <br>
       - 2) books sales predition model 3) features analysis of books <br>
-  * Other duties:  
-    - GPU server management  <br>
+  * Other duties: <br>
+    - GPU server management  <br>
     - Lecturer  <br>
     
   
