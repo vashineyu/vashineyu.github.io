@@ -25,7 +25,7 @@ Work experience
       - 2) books sales predition model 3) features analysis of books <br>
   * Other duties: <br>
     - GPU server management  <br>
-    - Lecturer  <br>
+    - Lecturer  <br>
     
   
 * Adjunct Research Assistant at <ins>[Vision Neuroscience Lab, VNL](http://www.psy.ntu.edu.tw/vnl/publications.html)</ins>, Department of Psychology, National Tawian University, March 2016 - May 2016  
