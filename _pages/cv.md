@@ -26,6 +26,8 @@ Work experience
   * Other duties: <br>
     - GPU server management  <br>
     - Lecturer  <br>
+      - 1) R, Tutorial of R basis, Exploratory data analysis and data visualization <br>
+      - 2) Deep learning, Hands-on tutorial of deep learning
     
   
 * Adjunct Research Assistant at <ins>[Vision Neuroscience Lab, VNL](http://www.psy.ntu.edu.tw/vnl/publications.html)</ins>, Department of Psychology, National Tawian University, March 2016 - May 2016  
