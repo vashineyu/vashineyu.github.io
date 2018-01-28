@@ -15,8 +15,9 @@ Work experience
   * Specialists: data ETL, statistical analysis, machine learning, deep learning (network design & training strategy)
   * Main tools: R, Python, Linux shell script
   * Projects  <br>
-    - Project THETA: Team leader, cooperation with serveral manufacturer such as 台塑石化, 長春石化, 研華電子, etc <br>
-      - 1) AI for Taiwan industry upgrading: Defect classification, predictive maintenance, parameter optimization <br>
+    - Team project THETA: provide deep learning solutions for serveral manufacturer such as 台塑石化, 長春石化, 研華電子, etc <br>
+      - 1) Defect classification, successfully reduced OR/LR (overkill rate/leakage rate) to 0.8%/0.1% with processing speed 240k images/day from 30%/10% human perforamce with 1 day <br>
+      - 2) Predictive maintenance, parameter optimization <br>
     - Team leader, coorperation with EASYCARD Co.Ltd  <br>
       - 1) E-ticket use rate prediction <br>
       - 2) marketing strategies analysis<br>
