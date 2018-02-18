@@ -20,7 +20,7 @@ Work experience
       - 2) Predictive maintenance, use both CNN and LSTM model to predict machine shutdown (air compressor) befroe 5 mins, which is enough for clients to prepare warm up the backup machine. <br>
       - 3) parameter optimization, stenter machine speed up. <br>
     - Team leader, coorperation with EASYCARD Co.Ltd  <br>
-      - 1) E-ticket use rate prediction <br>
+      - 1) E-ticket use rate prediction, use machine learning method to predict the E-ticket use rate for new marketing channels. <br>
       - 2) marketing strategies analysis<br>
     - Team leader, coorperation with books.com.tw <br>
       - 1) exploratory data analysis for e-commerce <br>
