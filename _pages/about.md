@@ -16,7 +16,7 @@ redirect_from:
 
 About Me
 =====
-願人生的每個年頭都留下深刻的成就，而不要年復一年的流連於過去的輝煌。
+願人生的每個年頭都留下深刻的成就，而不要年復一年的流連於過去的輝煌。 <br>
 Wish we can always breakthrough the current situation rather than hanging around in the glory of the past.
 
 關於我
