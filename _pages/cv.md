@@ -25,6 +25,11 @@ Work experience
     - Team leader, coorperation with books.com.tw <br>
       - 1) exploratory data analysis for e-commerce <br>
       - 2) books sales predition model 3) features analysis of books <br>
+    - Investigation project (with Jimmy Yang), cooperation with Sunfun Co.Ltd <br>
+      - 1) exploratory data analysis for on-line dating pattern - why and how male and female select their ideal mates.
+      - 2) fruad detection in on-line dating Apps, the AUC is over 0.98.
+    - Investigation project, the polis Taiwan.
+      - 1) the ideology and on-line comment/voting behavior pattern exploration by using the matrix factorization method.
   * Other duties: <br>
     - GPU server management  <br>
     - Lecturer  <br>
