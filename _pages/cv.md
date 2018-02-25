@@ -31,10 +31,14 @@ Work experience
     - Investigation project, the polis Taiwan.
       - 1) the ideology and on-line comment/voting behavior pattern exploration by using the matrix factorization method.
   * Other duties: <br>
-    - GPU server management  <br>
-    - Lecturer  <br>
-      - 1) R, Tutorial of R basis, Exploratory data analysis and data visualization <br>
-      - 2) Deep learning, Hands-on tutorial of deep learning
+    - GPU server management <br>
+    - Lecturer / Tutorials <br>
+      - R
+        * Introduction and basis of R <br>
+        * Exploratory data analysis and data visualization <br>
+      - Deep learning <br>
+        * Hands-on tutorial of deep learning <br>
+        * Introduction and basis of TensorFlow <br>
     
   
 * Adjunct Research Assistant at <ins>[Vision Neuroscience Lab, VNL](http://www.psy.ntu.edu.tw/vnl/publications.html)</ins>, Department of Psychology, National Tawian University, March 2016 - May 2016  
