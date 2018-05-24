@@ -61,10 +61,10 @@ Skills
 ======
 * Specialist
   - Behavioral science & Neuroscience
-  - Statistical analysis & Machine learning
-    - Data ETL, traditional statistical analysis, prediction analysis with modern machine learning agorithm (e.g. XGBoost, SVM, etc) <br>
-  - Deep learning (Computer Vision)  
-    - Network design in 2D and 3D CNN model for classification and segmentation tasks.
+  - Statistical analysis & Machine learning  
+    - Data ETL, traditional statistical analysis, prediction analysis with modern machine learning agorithm (e.g. XGBoost, SVM, etc)  
+  - Deep learning (Computer Vision)  
+    - Network design in 2D and 3D CNN model for classification and segmentation tasks.  
 * Programming
   * Languages
     - R (proficient to mastery)
