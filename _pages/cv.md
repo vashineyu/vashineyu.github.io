@@ -12,7 +12,7 @@ redirect_from:
 Work experience
 ======
 
-* Data Scientist / AI Engineer at <ins>[AETHER.AI]</ins>, May 2018 - now  
+* Data Scientist / AI Engineer at <ins>[AETHER.AI](https://dysklabs.com/home/#home)</ins>, May 2018 - now  
   * Deep learning application in medical image fields, including classification, detection, and segmentation.  
   
 * Data Scientist / Lecture leader at <ins>[Taiwan AI Academy](http://aiacademy.tw/)</ins>, Jan 2018 - April 2018 (inherit from Academia Sinica)
