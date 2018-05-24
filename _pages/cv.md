@@ -11,9 +11,12 @@ redirect_from:
 
 Work experience
 ======
-* Data Scientist at <ins>[Data Insight Research Lab, DIRL](http://dirl.iis.sinica.edu.tw/)</ins>, Institute of Information Science, Academia Sinica, May 2016 - Jan 2018 
-  * Specialists: data ETL, statistical analysis, machine learning, deep learning (network design & training strategy)
-  * Main tools: R, Python, Linux shell script
+
+* Data Scientist / AI Engineer at <ins>[AETHER.AI]</ins>, May 2018 - now  
+  * Deep learning application in medical image fields, including classification, detection, and segmentation.  
+  
+* Data Scientist / Lecture leader at <ins>[Taiwan AI Academy](http://aiacademy.tw/)</ins>, Jan 2018 - April 2018 (inherit from Academia Sinica)
+* Reserach assistant at <ins>[Data Insight Research Lab, DIRL](http://dirl.iis.sinica.edu.tw/)</ins>, Institute of Information Science, Academia Sinica, May 2016 - Jan 2018  
   * Projects  <br>
     - Team project THETA: provide deep learning solutions for serveral manufacturer such as 台塑石化, 長春石化, 研華電子, etc <br>
       - 1) Defect classification, successfully reduced OR/LR (overkill rate/leakage rate) to 0.8%/0.1% with processing speed 240k images/day from 30%/10% human perforamce with 1 day <br>
@@ -58,8 +61,10 @@ Skills
 ======
 * Specialist
   - Behavioral science & Neuroscience
-  - Statistical analysis
-  - Machine learning & Deep learning (especially in Computer Vision)
+  - Statistical analysis & Machine learning
+    - Data ETL, traditional statistical analysis, prediction analysis with modern machine learning agorithm (e.g. XGBoost, SVM, etc)
+  - Deep learning (Computer Vision)
+    - Network design in 2D and 3D CNN model for classification and segmentation tasks.
 * Programming
   * Languages
     - R (proficient to mastery)
