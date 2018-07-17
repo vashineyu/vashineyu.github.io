@@ -16,8 +16,7 @@ redirect_from:
 
 About Me
 =====
-願人生的每個年頭都留下深刻的成就，而不要年復一年的流連於過去的輝煌。 <br>
-Wish we can always breakthrough the current situation rather than hanging around in the glory of the past.
+Sean
 
 關於我
 =====
@@ -26,3 +25,8 @@ Wish we can always breakthrough the current situation rather than hanging around
 他曾協助多間知名企業進行數據分析及建立預測模型，如 1) 電子票證交易公司的通路用卡消費率預測模型，準確率可達 90%。 2) 知名電子商務書商的用戶輪廓分析及建立書籍銷售預測性模型，準確率至高可達 80%。現則致力於以深度學習模型協助製造業 (如材料與電子業) 做到更佳的品質監測與控制，及為生醫領域建立專家判斷系統。
 
 游為翔於國立台灣大學心理學系取得碩士學位 (2015)，於國立成功大學心理系 (2012) 取得學士學位。他過去專攻於視覺神經科學與腦造影領域，曾於2014年獲國科會補助於歐洲視覺年會 ([European Conference of Visual Perception, ECVP](http://ecvp.org/)) 發表壁報論文，於2011年獲傑出人才研究基金會補助於國際人類腦造影研討會議 ([Human Brain Mapping, HBM](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageID=3267&activateFull=false)) 發表壁報論文。
+
+
+=====
+願人生的每個年頭都留下深刻的成就，而不要年復一年的流連於過去的輝煌。 <br>
+Wish we can always breakthrough the current situation rather than hanging around in the glory of the past.
