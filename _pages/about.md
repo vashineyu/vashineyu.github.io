@@ -22,7 +22,7 @@ Before joining aether.AI, he worked at Taiwan Artificial Intelligence Academia a
 <br>
 Prior to joining Taiwan Artificial Intelligence Academia, he worked at Academia Sinica - Data Insight Research Lab (DIRL). He led the team "Project THETA" and successfully developed and implemented AI solutions for several manufacturers, including Chang Chun Group, Advantech, and Unimicron. Before engaging deep learning projects, he also managed annual data analysis projects in the lab with Books.tw, Sunfun, and Easycard. <br>
 <br>
-Sean got his M.S. of Psychology at National Taiwan University and B.S. of Psychology at National Cheng Kung University. He was a member of Visual Neuroscience Lab (VNL) and focus on basic research in neuroscience, especially in visual neuroscience and neuroimaging analysis.Sean (Wei-Hsiang, Yu) is currently working at Aether.AI and developing deep learning applications in medical images. 
+Sean got his M.S. of Psychology at National Taiwan University and B.S. of Psychology at National Cheng Kung University. He was a member of Visual Neuroscience Lab (VNL) and focus on basic research in neuroscience, especially in visual neuroscience and neuroimaging analysis.
 
 關於我
 =====
