@@ -12,10 +12,11 @@ redirect_from:
 Work experience
 ======
 
-* Data Scientist / AI Engineer at <ins>[AETHER.AI](https://dysklabs.com/home/#home)</ins>, May 2018 - now  
-  * Deep learning application in medical image fields, including classification, detection, and segmentation.  
-  
-* Data Scientist / Lecture leader at <ins>[Taiwan AI Academy](http://aiacademy.tw/)</ins>, Jan 2018 - April 2018 (inherit from Academia Sinica)
+* Data Scientist / AI Engineer at <ins>[aetherAI](https://aetherai.com/)</ins>, May 2018 - now  
+  * Deep learning applications in medical image fields, including classification, detection, and segmentation.  <br>
+    - Whole Slide Images (WSIs) cancer screening
+    - Computational pathology with cancer quantification
+* Data Scientist / Lecture Lead at <ins>[Taiwan AI Academy](http://aiacademy.tw/)</ins>, Jan 2018 - April 2018 (position inherit from Academia Sinica)
 * Reserach assistant at <ins>[Data Insight Research Lab, DIRL](http://dirl.iis.sinica.edu.tw/)</ins>, Institute of Information Science, Academia Sinica, May 2016 - Jan 2018  
   * Projects  <br>
     - Team project THETA: provide deep learning solutions for serveral manufacturer such as 台塑石化, 長春石化, 研華電子, etc <br>
@@ -60,20 +61,19 @@ Education
 Skills
 ======
 * Specialist
-  - Behavioral science & Neuroscience
+  - Neuroscience & Behavioral science
   - Statistical analysis & Machine learning  
     - Data ETL, traditional statistical analysis, prediction analysis with modern machine learning agorithm (e.g. XGBoost, SVM, etc)  
   - Deep learning (Computer Vision)  
     - Network design in 2D and 3D CNN model for classification and segmentation tasks.  
 * Programming
   * Languages
-    - R (proficient to mastery)
-    - Python (familiar to proficient)
+    - R (proficient)
+    - Python (proficient)
     - Shell (familiar)
     - Web: html-css-javascript (familiar)
-  * Key libraries
-    - Python: Tensorflow / Keras, Scikit-learn, cv2
-    - R: Data table, ggplot2
+  * Deep Learning Framework
+    - Python - Tensorflow (proficient), PyTorch (familiar)
   
 <!---
 Publications
