@@ -15,7 +15,7 @@ locale                   : "en-US"
 title                    : "Sean Yu (Wei-Hsiang Yu)"
 title_separator          : "-"
 name                     : &name "Sean Yu"
-description              : &description "Data scientist at Data Insight Reasearch Lab, Academia Sinica"
+description              : &description "Data scientist at aetherAI"
 url                      : https://vashineyu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "vashineyu/vashineyu.github.io"
@@ -191,16 +191,16 @@ collections:
 # Defaults
 defaults:
   # _posts
-#   - scope:
-#       path: ""
-#       type: posts
-#     values:
-#       layout: single
-#       author_profile: true
-#       read_time: true
-#       comments: true
-#       share: true
-#       related: true
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
   # _pages
   - scope:
       path: ""
@@ -218,14 +218,14 @@ defaults:
       share: true
       comments: true
   # _publications
-#   - scope:
-#       path: ""
-#       type: publications
-#     values:
-#       layout: single
-#       author_profile: true
-#       share: true
-#       comments: true
+  - scope:
+      path: ""
+      type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _portfolio
   - scope:
       path: ""
@@ -236,13 +236,13 @@ defaults:
       share: true
       comment: true
   # _talks
-#   - scope:
-#       path: ""
-#       type: talks
-#     values:
-#       layout: talk
-#       author_profile: true
-#       share: true
+  - scope:
+      path: ""
+      type: talks
+    values:
+      layout: talk
+      author_profile: true
+      share: true
 
 # Sass/SCSS
 sass:
