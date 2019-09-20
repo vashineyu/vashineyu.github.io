@@ -1,7 +1,7 @@
 ---
 title: 'Post Test'
 date: 2018-01-01
-permalink: /posts/2012/08/post_test/
+permalink: /posts/post_test/
 tags:
   - cool posts
   - category1
