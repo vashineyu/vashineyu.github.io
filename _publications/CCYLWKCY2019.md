@@ -5,9 +5,8 @@ permalink: /publication/CCYLWKCY2019
 excerpt: ''
 date: 2019-09-07
 venue: 'The International Conference for High Performance Computing'
-paperurl: ''
+paperurl: 'https://sc19.supercomputing.org/'
 
 ---
 
-Download will be available after Dec.2019
-#[Download paper here]()
+[Download paper here](https://sc19.supercomputing.org/)
