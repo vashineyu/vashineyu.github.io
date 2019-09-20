@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/CCYLWKCY2019
 excerpt: ''
 date: 2019-09-07
-venue: 'The International Conference for High Performance Computing, 2019'
+venue: 'The International Conference for High Performance Computing'
 paperurl: ''
 
 ---
