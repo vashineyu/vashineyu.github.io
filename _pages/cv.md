@@ -16,6 +16,7 @@ Work experience
   * Deep learning applications in medical image fields, including classification, detection, and segmentation.  <br>
     - Whole Slide Images (WSIs) cancer screening
     - Computational pathology with cancer quantification
+    - Computational pathology with immonohistochemistry (IHC) identificaion and quantification
 * Data Scientist / Lecture Lead at <ins>[Taiwan AI Academy](http://aiacademy.tw/)</ins>, Jan 2018 - April 2018 (position inherit from Academia Sinica)
 * Reserach assistant at <ins>[Data Insight Research Lab, DIRL](http://dirl.iis.sinica.edu.tw/)</ins>, Institute of Information Science, Academia Sinica, May 2016 - Jan 2018  
   * Projects  <br>
